@@ -25,6 +25,10 @@
     border-radius: 30px;
 }
 
+.btn:active {
+    transform: translateY(1.5px);
+}
+
 .popup{
     width: 400px;
     background: #fff;
